@@ -10,7 +10,7 @@ Simple Python codes for implementing the Monte Carlo algorithm to evaluate the e
 
 **(3) bilayer-Ising_with-4-spin-interaction.ipynb** <br>
   For the bilayer 2D system with 4 spin interaction, the critical behaviour is very rich. <br>
-  Ref: F. W. Wu Phys. Rev. B **4**, 2312 (1971). <br>
+  Ref: F. W. Wu, Phys. Rev. B **4**, 2312 (1971). <br>
   One can study this critical behaviour by tuning the parameters alpha and beta in the code
 
 For each program, the following libraries are imported: <br>
